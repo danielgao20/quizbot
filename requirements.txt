@@ -1,0 +1,4 @@
+openai==1.57.4
+PyQt5==5.15.11
+pytesseract==0.3.13
+python-dotenv==1.0.1
